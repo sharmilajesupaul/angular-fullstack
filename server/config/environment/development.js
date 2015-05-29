@@ -8,5 +8,5 @@ module.exports = {
     uri: 'mongodb://localhost/angularfullstack-dev'
   },
 
-  seedDB: true
+  seedDB: false
 };
